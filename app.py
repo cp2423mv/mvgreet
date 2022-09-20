@@ -6,5 +6,5 @@ def index():
   return "Hello world!"
 
 @app.route('/greet')
-def greet(person):
+def greet():
   return "Hello " + request.args.get('person', '')
