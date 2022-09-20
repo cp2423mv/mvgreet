@@ -1,0 +1,7 @@
+{
+  "name": "Chris' simple app to demo IaaS v PaaS v FaaS",
+  "description": "A barebones Python app, which can easily be deployed to Heroku.",
+  "image": "heroku/python",
+  "repository": "https://github.com/cp2423mv/mvgreet",
+  "keywords": ["python", "flask" ]
+}
